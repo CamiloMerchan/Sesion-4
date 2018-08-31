@@ -1,0 +1,104 @@
+
+div{
+	color: #3DEDB9;
+	background-color:#4E979E;
+	border: 1px solid #4C0D6D;
+	width: 120px;
+	height: 120px;
+	margin-left: 50px;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 20px;
+	margin-top: 20px;
+	float: left;
+}
+h1{
+	text-shadow: 5px -5px 1px black, 8px 8px orange;
+	color: green;
+text-align: center;
+
+}
+h2{
+	text-shadow: 1px 1px 0 rgba(230, 230, 230, 1),
+	1px 1px 0 rgba(230, 230, 230, 1),
+	2px 2px 0 rgba(200, 200, 200, 1),
+	3px 3px 0 rgba(180, 180, 180, 1),
+	4px 4px 0 rgba(160, 160, 160, 1),
+	5px 5px 0 rgba(0, 0, 0, 1),
+	8px 8px 20px rgba(0, 0, 0, 0.5);
+color: white;
+background-color: #890798; 
+text-align: center;
+font-size: 50px;
+}
+.caja1{
+	border-radius: 24px;
+	box-shadow: -5px -5px green;
+}
+.caja2{
+	border-top-left-radius:  24px;
+	box-shadow: -5px -5px 10px black;
+	
+}
+.caja3{
+	border-radius: 24px 0;
+	clear: both;
+	box-shadow: inset 0 0 5px 5px #C319E2;
+}
+.caja4{
+	border-radius: 36px 12px;
+	box-shadow: -5px -5px 0 5px yellow;
+	
+}
+.caja5{
+	border-top-right-radius: 50px 30px;
+	box-shadow: -5px -5px 5px 5px #A31212;
+}
+.caja6{
+	border-bottom-right-radius: 50px 30px;
+box-shadow: 0 0 5px #0D7D69;
+
+}
+.caja7{
+	border-radius: 50%;
+	box-shadow: 0 0 5px 5px #C319E2;
+
+	}
+	.caja8{
+	border-radius: 50% 50% 0 0;
+	box-shadow: inset -5px -5px #680D86;
+
+	}
+	.caja9{
+	border-radius: 0 20px 20px 0;
+	box-shadow: inset -5px -5px 5px #DD0D65;
+	}
+	.caja10{
+	border-radius: 20px 0 0 20px;
+box-shadow: inset -5px -5px 0 5px #48116F;
+
+	}
+	.caja11{
+	border-radius: 0 50% 0 50%;
+	box-shadow: inset -5px -5px 5px 5px #1ED768;
+	}
+	.caja12{
+	border-top-left-radius: 50% 20% ;
+	border-top-right-radius: 50% 20%;
+	border-bottom-left-radius:50% 20%; 
+    border-bottom-right-radius: 50% 20%;
+    box-shadow: inset 0 0 80px #D494EE;
+	}
+	.skull{
+	box-shadow: -15px -20px 10px orange;
+	border-radius: 20px;
+	background-color: yellow;
+	width: 200px;
+	padding:10px; 
+	
+	}
+	.caja13{
+	width: 200px; 
+	height:200px;
+    background-color:  rgb(155, 0, 255); 
+}

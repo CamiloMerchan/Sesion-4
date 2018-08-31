@@ -1,0 +1,25 @@
+
+
+div{
+	color: #3DEDB9;
+	background: #4E979E;
+	width: 10px;
+	height: 5px;
+}
+
+.caja1 {
+	display: block;
+	border: 3px solid red;
+
+}
+.caja2,.caja3{
+	display: inline;
+	border:3px solid red
+}
+
+.caja4 {
+
+	display: none;
+	border:3px solid red
+
+}
